@@ -31,7 +31,7 @@
 				"useButtonType": "off"
 			},
 			"suspicious": {
-				"noArrayIndexKey": "info",
+				"noArrayIndexKey": "off",
 				"noExplicitAny": "off"
 			},
 			"correctness": {
